@@ -10,8 +10,7 @@ It's designed as a minimalist, private space for art lovers to collect and track
 
 ## 🌐 Live Site
 
-[http://localhost:3001/](http://localhost:3001/)
-*(Replace with actual deployed link later)*
+[https://my-exhibition-diary.onrender.com/](https://my-exhibition-diary.onrender.com/)
 
 ---
 
