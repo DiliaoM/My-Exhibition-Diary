@@ -10,7 +10,7 @@ It's designed as a minimalist, private space for art lovers to collect and track
 
 ## 🌐 Live Site
 
-[https://my-exhibition-diary.onrender.com/](https://my-exhibition-diary.onrender.com/)
+[https://art-journal-frontend.vercel.app/](https://art-journal-frontend.vercel.app/)
 
 ---
 
